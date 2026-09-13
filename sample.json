@@ -1,0 +1,16 @@
+{
+  "id": "portrait_001",
+  "title": "Cinematic Ocean Sunset Portrait",
+  "prompt": "...",
+  "imageUrl": "https://cdn.../portrait_001.webp",
+  "category": "Portrait",
+  "tags": [
+    "portrait",
+    "sunset",
+    "cinematic"
+  ],
+  "views": 3200,
+  "copyCount": 842,
+  "isTrending": true,
+  "isPremium": false
+}
