@@ -1,16 +1,14 @@
-{
-  "id": "portrait_001",
-  "title": "Cinematic Ocean Sunset Portrait",
-  "prompt": "...",
-  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwbXX1FceFfCPeIFhOY80wzNLcbxhHGWMb7xg3uc-PAw&s=10",
-  "category": "Portrait",
-  "tags": [
-    "portrait",
-    "sunset",
-    "cinematic"
-  ],
-  "views": 3200,
-  "copyCount": 842,
-  "isTrending": true,
-  "isPremium": false
-}
+[
+  {
+    "id": "portrait_001",
+    "title": "Cinematic Ocean Sunset Portrait",
+    "prompt": "A cinematic portrait...",
+    "imageUrl": "https://...",
+    "category": "Portrait",
+    "tags": ["portrait", "sunset", "cinematic"],
+    "views": 3200,
+    "copyCount": 842,
+    "isTrending": true,
+    "isPremium": false
+  }
+]
