@@ -1,0 +1,18 @@
+[
+  {
+    "id": "lowangle_001",
+    "title": "Low Angle",
+    "prompt": "Your complete AI image prompt here...",
+    "imageUrl": "https://example.com/lowangle.jpg",
+    "category": "Camera",
+    "tags": ["lowangle", "cinematic"]
+  },
+  {
+    "id": "wideangle_001",
+    "title": "Wide Angle",
+    "prompt": "Your complete AI image prompt here...",
+    "imageUrl": "https://example.com/wideangle.jpg",
+    "category": "Camera",
+    "tags": ["wideangle", "cinematic"]
+  }
+]
