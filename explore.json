@@ -3,7 +3,7 @@
     "id": "lowangle_001",
     "title": "Low Angle",
     "prompt": "Your complete AI image prompt here...",
-    "imageUrl": "https://example.com/lowangle.jpg",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeATew2vpO6KPuxZDk5yBUdHP2BUALMan9Tkd_kPKvKg&s=10",
     "category": "Camera",
     "tags": ["lowangle", "cinematic"]
   },
@@ -11,8 +11,8 @@
     "id": "wideangle_001",
     "title": "Wide Angle",
     "prompt": "Your complete AI image prompt here...",
-    "imageUrl": "https://example.com/wideangle.jpg",
-    "category": "Camera",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeATew2vpO6KPuxZDk5yBUdHP2BUALMan9Tkd_kPKvKg&s=10",
+    "category": "cinematic",
     "tags": ["wideangle", "cinematic"]
   }
 ]
