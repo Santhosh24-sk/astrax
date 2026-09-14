@@ -8,8 +8,8 @@
     "tags": "cinematic, rain, night, neon",
     "views": "3200",
     "copyCount": "842",
-    "isTrending": "FALSE",
-    "isPremium": "FALSE"
+    "isTrending": "false",
+    "isPremium": "false"
   },
   {
     "id": "prompt_002",
@@ -20,8 +20,8 @@
     "tags": "golden hour, warm, bokeh",
     "views": "1200",
     "copyCount": "652",
-    "isTrending": "FALSE",
-    "isPremium": "FALSE"
+    "isTrending": "false",
+    "isPremium": "false"
   },
   {
     "id": "prompt_003",
@@ -32,8 +32,8 @@
     "tags": "studio, luxury, fashion",
     "views": "3450",
     "copyCount": "42",
-    "isTrending": "FALSE",
-    "isPremium": "FALSE"
+    "isTrending": "false",
+    "isPremium": "false"
   },
   {
     "id": "prompt_004",
@@ -44,8 +44,8 @@
     "tags": "black and white, classic, fine art",
     "views": "320",
     "copyCount": "82",
-    "isTrending": "TRUE",
-    "isPremium": "FALSE"
+    "isTrending": "true",
+    "isPremium": "false"
   },
   {
     "id": "prompt_005",
@@ -56,8 +56,8 @@
     "tags": "neon, futuristic, cyberpunk",
     "views": "320",
     "copyCount": "82",
-    "isTrending": "FALSE",
-    "isPremium": "FALSE"
+    "isTrending": "false",
+    "isPremium": "false"
   },
   {
     "id": "prompt_006",
@@ -68,8 +68,8 @@
     "tags": "studio, luxury, moonlight",
     "views": "320",
     "copyCount": "82",
-    "isTrending": "FALSE",
-    "isPremium": "FALSE"
+    "isTrending": "false",
+    "isPremium": "false"
   },
   {
     "id": "prompt_007",
@@ -80,8 +80,8 @@
     "tags": "underwater, portrait, glow",
     "views": "320",
     "copyCount": "82",
-    "isTrending": "TRUE",
-    "isPremium": "TRUE"
+    "isTrending": "true",
+    "isPremium": "true"
   },
   {
     "id": "prompt_008",
@@ -92,8 +92,8 @@
     "tags": "casual, phone, trend",
     "views": "320",
     "copyCount": "82",
-    "isTrending": "FALSE",
-    "isPremium": "FALSE"
+    "isTrending": "false",
+    "isPremium": "false"
   },
   {
     "id": "prompt_009",
@@ -104,8 +104,8 @@
     "tags": "selfie, mirrorSelfie, night",
     "views": "320",
     "copyCount": "82",
-    "isTrending": "FALSE",
-    "isPremium": "FALSE"
+    "isTrending": "false",
+    "isPremium": "false"
   },
   {
     "id": "prompt_010",
@@ -116,8 +116,8 @@
     "tags": "aesthetic, bike, casual",
     "views": "320",
     "copyCount": "82",
-    "isTrending": "FALSE",
-    "isPremium": "FALSE"
+    "isTrending": "false",
+    "isPremium": "false"
   },
   {
     "id": "prompt_011",
@@ -128,8 +128,8 @@
     "tags": "aesthetic, bike, casual",
     "views": "320",
     "copyCount": "82",
-    "isTrending": "FALSE",
-    "isPremium": "FALSE"
+    "isTrending": "false",
+    "isPremium": "false"
   },
   {
     "id": "prompt_012",
@@ -140,8 +140,8 @@
     "tags": "Photorealistic, collage, closelook",
     "views": "320",
     "copyCount": "82",
-    "isTrending": "TRUE",
-    "isPremium": "FALSE"
+    "isTrending": "true",
+    "isPremium": "false"
   },
   {
     "id": "prompt_013",
@@ -152,8 +152,8 @@
     "tags": "Photorealistic, blacksuit, luxury",
     "views": "320",
     "copyCount": "82",
-    "isTrending": "FALSE",
-    "isPremium": "FALSE"
+    "isTrending": "false",
+    "isPremium": "false"
   },
   {
     "id": "prompt_014",
@@ -164,8 +164,8 @@
     "tags": "Cinematic, portrait, casual",
     "views": "320",
     "copyCount": "82",
-    "isTrending": "FALSE",
-    "isPremium": "FALSE"
+    "isTrending": "false",
+    "isPremium": "false"
   },
   {
     "id": "prompt_015",
@@ -176,8 +176,8 @@
     "tags": "Cinematic, portrait, casual",
     "views": "320",
     "copyCount": "82",
-    "isTrending": "TRUE",
-    "isPremium": "TRUE"
+    "isTrending": "true",
+    "isPremium": "true"
   },
   {
     "id": "prompt_016",
@@ -188,8 +188,8 @@
     "tags": "blackandwhite, collage, closelook",
     "views": "320",
     "copyCount": "82",
-    "isTrending": "TRUE",
-    "isPremium": "TRUE"
+    "isTrending": "true",
+    "isPremium": "true"
   },
   {
     "id": "prompt_017",
@@ -200,8 +200,8 @@
     "tags": "aesthetic, music, goldenglow",
     "views": "320",
     "copyCount": "82",
-    "isTrending": "FALSE",
-    "isPremium": "FALSE"
+    "isTrending": "false",
+    "isPremium": "false"
   },
   {
     "id": "prompt_018",
@@ -212,8 +212,8 @@
     "tags": "realistic, couple, love",
     "views": "320",
     "copyCount": "82",
-    "isTrending": "TRUE",
-    "isPremium": "FALSE"
+    "isTrending": "true",
+    "isPremium": "false"
   },
   {
     "id": "prompt_019",
@@ -224,8 +224,8 @@
     "tags": "realistic, couple, love",
     "views": "320",
     "copyCount": "82",
-    "isTrending": "FALSE",
-    "isPremium": "FALSE"
+    "isTrending": "false",
+    "isPremium": "false"
   },
   {
     "id": "prompt_020",
@@ -236,7 +236,7 @@
     "tags": "aesthetic, music, goldenglow",
     "views": "320",
     "copyCount": "82",
-    "isTrending": "FALSE",
-    "isPremium": "FALSE"
+    "isTrending": "false",
+    "isPremium": "false"
   }
 ]
