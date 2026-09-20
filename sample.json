@@ -1,9 +1,247 @@
 [
   {
+    "id": "prompt_021",
+    "title": "4-panel Indian bridal/saree aesthetic",
+    "prompt": "Create a realistic 2×2 four-panel fashion portrait collage of the same young South Asian woman wearing an elegant deep wine/maroon silk saree with intricate antique-gold zari embroidery and a matching blouse. She has long dark black hair styled in a soft traditional updo with a few loose strands framing her face, a tiny black bindi, natural glowing makeup, softly defined eyebrows, subtle eyeliner, long lashes, rosy cheeks and glossy pink lips. She wears an elaborate traditional pearl-and-gold jewelry set: floral choker necklace, matching dangling jhumka earrings with delicate chains, layered pearl bangles and numerous deep maroon glass bangles. Warm intimate indoor lighting with a soft pink-red glow falling across her face and saree, creating a luxurious romantic mood.\nTop-left panel: close-up three-quarter portrait, woman gently resting her chin on her hand, looking directly into the camera with a soft confident expression.\nTop-right panel: extreme close-up of her eyes and face, her forearm partially covering her mouth, looking sideways with expressive eyes, showing the layered bangles prominently.\nBottom-left panel: artistic close-up of her arm and waist/hip area, emphasizing the rich maroon saree fabric, intricate gold zari patterns, pearl bangles and delicate waist chain.\nBottom-right panel: elegant side-profile close-up, looking downward with a shy expression, prominently showcasing the ornate pearl-and-gold earring, necklace and saree border.\nKeep the same woman, same facial features, same hairstyle, same jewelry, same saree, same skin tone and consistent lighting across all four panels. Authentic Indian traditional fashion photography, luxurious bridal aesthetic, warm low-light ambience, soft shadows, realistic skin texture, natural facial proportions, shallow depth of field, cinematic photography, high detail, premium Instagram editorial aesthetic, subtle film grain, rich maroon and antique-gold tones, photorealistic, vertical 9:16 composition, clean 2×2 grid with thin black dividers. Use the uploaded image as the visual reference for composition, pose, styling, jewelry arrangement, saree details, lighting and overall aesthetic. Preserve the four-panel layout and maintain strong visual consistency between panels.",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_021.webp",
+    "category": "Aesthetic",
+    "tags": [
+      "aesthetic",
+      "collage",
+      "saree"
+    ],
+    "views": 2654,
+    "copyCount": 1453,
+    "isTrending": false,
+    "isPremium": false
+  },
+  {
+    "id": "prompt_022",
+    "title": "High-contrast black-and-white ink illustration with a vivid red background",
+    "prompt": "Create a striking high-contrast editorial portrait of a young man in a bold black, white, and vivid red graphic illustration style. He has thick, naturally curly, messy dark hair with voluminous strands covering part of his forehead and slightly falling over one eye. His head is tilted slightly backward, chin raised, with a calm, confident, mysterious expression. Strong masculine facial structure, defined jawline, subtle moustache and short beard/stubble, realistic eyes and nose.\nRender the face and skin almost entirely in white and light gray tones, using sharp black ink linework, dense cross-hatching and dramatic graphic shadows to define the facial features, hair, beard and neck. Hair should be extremely detailed with hundreds of expressive black and white strands, creating a wild textured silhouette.\nHe is wearing a simple oversized black crew-neck T-shirt, rendered with deep black shadows and angular gray highlights. The portrait is cropped around the upper chest and shoulders.\nUse a completely solid vivid crimson-red background, creating an intense visual contrast against the monochrome subject. Minimalist composition, centered portrait, bold graphic design, screen-print aesthetic, comic-book illustration, hand-inked artwork, high contrast, sharp contours, dramatic lighting, sophisticated fashion poster, contemporary album-cover aesthetic.\nNo photorealistic colors, no background objects, no text, no logos. Extremely clean silhouette, intricate hair details, expressive ink strokes, monochrome subject against pure red background, polished professional illustration, high resolution.",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_022.webp",
+    "category": "Aesthetic",
+    "tags": [
+      "blackandwhite",
+      "portrait digitalart"
+    ],
+    "views": 2648,
+    "copyCount": 1236,
+    "isTrending": false,
+    "isPremium": false
+  },
+  {
+    "id": "prompt_023",
+    "title": "Highly detailed monochrome hand-drawn ink portrait",
+    "prompt": "Create a highly detailed monochrome hand-drawn ink portrait of a young South Asian man, using the reference image for the exact composition and visual style. Show a close-up three-quarter profile, with only the left side of his face prominently visible. He has thick, naturally curly, voluminous messy black hair with individual curls and loose strands extending outward. His expression is subtle and confident, with a slight mysterious smile and direct eye contact toward the camera.\nRender the face entirely in black, white, and delicate gray tones, with extremely fine pen-and-ink linework. Use dense cross-hatching, stippling, fine contour lines and tiny textured strokes to create realistic skin pores, beard texture, wrinkles and facial depth. Strongly define his thick eyebrows, expressive eyes, nose, cheekbones, moustache and full short beard. Preserve natural facial asymmetry and realistic proportions.\nHis beard should have thousands of individually suggested hair strokes, blending naturally into the sideburns and curly hair. Add subtle artistic texture and fine sketch marks across the cheek and forehead while maintaining a refined professional illustration.\nHe wears a simple light-colored collared shirt, with the collar and shoulder rendered using fine pencil/ink shading and cross-hatching. The background is clean pure white, with no objects or distractions.\nStyle: ultra-detailed graphite and ink illustration, realistic hand-drawn portrait, black-and-white editorial artwork, traditional pen drawing, cross-hatching, stippling, engraving-inspired texture, dramatic facial detail, sophisticated graphic-novel aesthetic, high-resolution fine-art portrait.\nComposition: tight crop around the head, face, neck and upper shoulder, subject positioned slightly toward the left side of the frame, portrait orientation, strong facial focus, clean white negative space.\nAvoid: color, red background, cartoon proportions, smooth digital painting, plastic skin, excessive blur, text, watermark, logos.",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_023.webp",
+    "category": "Aesthetic",
+    "tags": [
+      "blackandwhite",
+      "portrait digitalart"
+    ],
+    "views": 2648,
+    "copyCount": 1236,
+    "isTrending": false,
+    "isPremium": false
+  },
+  {
+    "id": "prompt_024",
+    "title": "Moody cinematic studio portrait",
+    "prompt": "Create a moody cinematic studio portrait of a young South Asian man sitting casually on a simple black chair in an otherwise completely dark studio. He is seated in a relaxed cross-legged pose, leaning slightly back, with one arm resting naturally and a confident, friendly smile.\nHe has thick, naturally curly dark hair, a neatly trimmed full beard and moustache, and wears dark rectangular sunglasses. He is dressed in a deep burgundy/maroon casual button-up shirt, slightly open at the collar, revealing subtle layered necklaces. Pair it with loose black trousers, dark shoes, a simple wristwatch and minimal accessories.\nA single powerful warm golden spotlight from directly above illuminates him and creates a dramatic circular pool of light on the floor beneath the chair. The rest of the studio fades into near-total blackness. Visible atmospheric smoke/fog rises behind and around him, catching the overhead beam and forming beautiful wispy illuminated patterns.\nStrong chiaroscuro lighting, deep black shadows, warm amber highlights, subtle rim light around his hair and shoulders, realistic skin texture, cinematic exposure, volumetric light rays, atmospheric haze, dramatic contrast, luxurious editorial photography, sophisticated masculine fashion aesthetic.\nCamera positioned slightly below eye level, full-body vertical portrait, centered composition, subject occupying the middle of the frame, enough negative space surrounding him, realistic proportions, shallow atmospheric depth, professional studio photography, 35mm cinematic lens, ultra-realistic, high detail, film grain, rich shadows, natural pose.\nColor palette: predominantly black with warm golden/amber spotlight and deep burgundy clothing.\nMood: mysterious, stylish, confident, intimate, cinematic.\nAvoid: bright background, multiple light sources, daylight, colorful environment, excessive retouching, distorted hands, distorted legs, extra limbs, text, watermark, logos.",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_024.webp",
+    "category": "Portrait",
+    "tags": [
+      "studio",
+      "luxury",
+      "fashion"
+    ],
+    "views": 320,
+    "copyCount": 82,
+    "isTrending": true,
+    "isPremium": false
+  },
+  {
+    "id": "prompt_025",
+    "title": "Photorealistic cinematic portrait",
+    "prompt": "Create a photorealistic cinematic portrait of a stylish young South Asian man, closely matching the uploaded reference image in composition, pose, lighting, hairstyle, clothing, and overall mood.\nHe has thick, naturally curly dark hair with a slightly tousled, voluminous texture, a well-groomed full beard and moustache, strong jawline, and natural masculine facial features. He wears modern rectangular dark-tinted sunglasses with a thin metallic frame.\nHe is dressed in a deep burgundy/maroon textured button-up shirt, relaxed and slightly oversized, with the top several buttons naturally open. A simple silver chain necklace is visible around his neck. His posture is relaxed and confident, shoulders slightly angled, head turned toward the left side of the frame, looking upward and away from the camera with a calm, thoughtful expression.\nThe scene is shot in a dark, minimalist indoor environment. Strong warm sunlight enters dramatically from the upper-left side, illuminating one side of his face, hair, sunglasses, neck and shirt while the opposite side falls into deep cinematic shadow. The background is almost completely black, with subtle architectural shadows and faint warm highlights.\nLighting: dramatic low-key photography, hard directional golden sunlight, strong chiaroscuro, deep shadows, subtle warm rim lighting, realistic light falloff, natural skin highlights.\nCamera: medium close-up portrait from slightly below eye level, 50mm lens, shallow depth of field, subject sharply focused, background heavily blurred/dark, vertical 4:5 composition.\nRich burgundy and warm amber tones, realistic skin texture, detailed curly hair, natural beard texture, realistic sunglasses reflections, subtle film grain, cinematic color grading, premium men's fashion editorial photography, sophisticated and mysterious atmosphere, ultra-realistic, high detail, professional DSLR photography.\nNegative prompt: cartoon, illustration, artificial skin, over-smoothed face, excessive HDR, bright background, daylight scene, distorted face, malformed hands, extra fingers, unrealistic hair, excessive accessories, text, watermark, logo.",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_025.webp",
+    "category": "Portrait",
+    "tags": [
+      "studio",
+      "luxury",
+      "fashion"
+    ],
+    "views": 320,
+    "copyCount": 82,
+    "isTrending": true,
+    "isPremium": false
+  },
+  {
+    "id": "prompt_026",
+    "title": "Cinematic Saree Portrait Prompt",
+    "prompt": "Create a photorealistic cinematic portrait of a young South Asian woman wearing an elegant ivory/cream saree with a broad antique-gold zari border and a matching fitted blouse with a subtle sweetheart neckline.\nShe has long, silky dark hair gathered into a low traditional bun, decorated with a beautiful cluster of fresh white jasmine flowers (gajra). A few soft strands of hair naturally fall across the side of her face. She wears large traditional gold jhumka earrings with intricate detailing and tiny pearl-like hanging elements.\nCapture her in a graceful three-quarter side profile, with her face turned toward the right side of the frame and her eyes gently looking downward. Her expression is calm, soft and slightly shy. Natural South Asian facial features, warm glowing skin, subtle makeup, softly defined eyes, natural eyebrows and muted rose lips.\nThe saree is draped naturally over her shoulder, with the golden border clearly visible running diagonally across her chest. Preserve realistic fabric folds and delicate silk texture.\nSet the portrait against a warm beige plaster wall. Beautiful late-afternoon sunlight enters from the side, creating soft diagonal window-shadow patterns across the wall and subtle golden highlights on her hair, face and saree. The lighting should feel warm, dreamy and intimate.\nPhotography: soft cinematic portrait photography, warm golden-hour lighting, natural skin texture, subtle film grain, shallow depth of field, gentle bokeh, realistic fabric texture, soft shadows, elegant Indian fashion editorial aesthetic, 85mm portrait lens, realistic exposure, highly detailed, photorealistic.\nComposition: vertical 4:5 portrait, subject positioned slightly toward the right, upper-body framing, negative space on the left, soft wall background, elegant minimal composition.\nMood: graceful, feminine, traditional, peaceful, warm, luxurious and timeless.\nNegative prompt: cartoon, illustration, artificial skin, excessive makeup, plastic skin, oversaturated colors, harsh lighting, distorted face, malformed hands, extra fingers, messy jewelry, unrealistic saree folds, text, watermark, logo.",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_026.webp",
+    "category": "Portrait",
+    "tags": [
+      "aesthetic",
+      "cinematic",
+      "saree"
+    ],
+    "views": 320,
+    "copyCount": 82,
+    "isTrending": true,
+    "isPremium": false
+  },
+  {
+    "id": "prompt_027",
+    "title": "Cinematic devotional portrait of a beautiful",
+    "prompt": "Ultra-realistic cinematic devotional portrait of a beautiful young Indian woman performing Lord Shiva Abhishek inside an ancient stone temple. She is gracefully pouring coconut water from a freshly broken coconut onto a beautifully decorated black Shivling adorned with white jasmine garlands, red roses, and gold ornaments. She wears an elegant emerald green embroidered saree with intricate golden floral work, matching blouse, green bangles, traditional gold-and-green jhumka earrings, a delicate necklace, soft bridal-inspired makeup, deep maroon lipstick, subtle winged eyeliner, glowing skin, and long wavy black hair. Warm golden temple lighting from numerous oil lamps (diyas) creates a divine, spiritual atmosphere with soft cinematic bokeh. The foreground includes brass puja thali, kalash, betel leaves, flowers, apples, and lit diyas. Intricately carved stone pillars and a softly blurred temple sanctum appear in the background. Highly detailed textures, realistic water flow, natural pose, devotional expression, volumetric lighting, HDR, ultra-photorealistic, 8K, DSLR quality, shallow depth of field, rich colors, masterpiece, sharp focus, spiritual ambience, no text, no watermark.",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_027.webp",
+    "category": "Portrait",
+    "tags": [
+      "aesthetic",
+      "cinematic",
+      "saree"
+    ],
+    "views": 320,
+    "copyCount": 82,
+    "isTrending": true,
+    "isPremium": false
+  },
+  {
+    "id": "prompt_028",
+    "title": "Editorial Saree Collage",
+    "prompt": "Create a high-end photorealistic Indian fashion editorial poster featuring the same young South Asian woman in a sophisticated orange silk saree with a rich green blouse and subtle gold detailing.\nMain foreground portrait: Show her standing gracefully in a three-quarter pose, body turned slightly sideways while looking toward the camera with a gentle, confident smile. She has long, thick, naturally wavy black hair flowing over her shoulders, a small traditional bindi, natural makeup, soft expressive eyes and elegant South Asian facial features. She wears traditional earrings, multiple bangles and minimal jewelry. The orange saree should have realistic silk texture, detailed folds and a subtle golden border.\nBackground collage: Behind the main color portrait, create three vertically framed monochrome portraits of the same woman, arranged like an elegant fashion magazine composition:\nLeft portrait: black-and-white close-up, looking gently toward the camera with a subtle smile.\nCenter portrait: taller black-and-white portrait, eyes looking downward with a peaceful expression.\nRight portrait: black-and-white three-quarter portrait, looking slightly sideways.\nKeep the same facial identity, hairstyle and jewelry across all four portraits, with realistic consistency.\nSurround the composition with delicate flowering branches and soft peach, coral and pale-pink blossoms, extending naturally from the bottom and sides. Add subtle out-of-focus flowers in the foreground to create depth.\nUse a minimal warm ivory/white background, soft natural studio lighting, elegant muted tones and a premium Indian fashion-magazine aesthetic. The monochrome portraits should have subtle film grain and realistic grayscale photography, while the central foreground portrait remains in rich natural color.\nAdd tasteful editorial typography in the lower-left area reading “Maya” in an elegant sophisticated serif font, with a small subtitle “lovely women” above it. Keep typography minimal and refined.\nComposition: vertical 4:5 fashion poster, central subject dominant, three monochrome portraits behind her, floral branches framing the composition, layered depth, clean negative space, sophisticated editorial layout.\nStyle: luxury Indian fashion photography, photorealistic, cinematic soft lighting, realistic skin texture, detailed silk fabric, natural hair strands, elegant floral styling, magazine cover aesthetic, premium color grading, ultra-detailed, high resolution.\nNegative prompt: cartoon, anime, illustration, distorted face, inconsistent identity, duplicate facial features, unrealistic hands, extra fingers, plastic skin, excessive makeup, oversaturated colors, cluttered background, warped typography, watermark, logo.",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_028.webp",
+    "category": "Collage",
+    "tags": [
+      "aesthetic",
+      "cinematic",
+      "saree"
+    ],
+    "views": 320,
+    "copyCount": 82,
+    "isTrending": true,
+    "isPremium": false
+  },
+  {
+    "id": "prompt_029",
+    "title": "Romantic Anniversary Calendar",
+    "prompt": "Create a luxury romantic Indian anniversary calendar poster featuring the same South Asian couple throughout the composition. Use the uploaded reference image as the visual reference for the overall layout, styling, poses, clothing, color palette and romantic atmosphere.\nMain portrait: Show a young South Asian couple in an intimate traditional pose. The man stands slightly behind the woman and gently kisses the top of her head/forehead while she closes her eyes with a soft, peaceful smile and leans comfortably against him. He has thick naturally curly black hair, a neatly groomed beard and moustache, and wears an elegant cream/gold embroidered sherwani with a rich maroon-red stole featuring intricate traditional patterns. She has long, voluminous dark wavy hair and wears a luxurious deep red/maroon embroidered lehenga or saree, decorated with intricate gold floral motifs and a matching dupatta.\nSecondary full-body portrait: At the lower-left, show the same couple standing together naturally, facing each other and smiling affectionately. Preserve the exact same clothing, hairstyles, jewelry and facial identity. The man holds or gently reaches toward the woman's hand while they look at each other.\nSurround the couple with an artistic soft watercolor floral splash, primarily in dusty rose, burgundy, peach and muted cream tones. Add delicate hand-painted flowers, leaves and subtle gold botanical line art around the edges. Keep the center couple sharp and photorealistic while the surrounding floral elements have a refined watercolor-paper texture.\nCalendar section: Place an elegant calendar in the upper-left portion of the poster. Display:\nSeptember\n2026\nwith a clean minimalist monthly calendar underneath. Highlight the 15th with a delicate circular outline to represent the anniversary date. Use sophisticated serif typography for the calendar and elegant handwritten/calligraphy typography for the month.\nBottom typography: Add refined romantic text:\nHappy\nAnniversary\nwith “Anniversary” in a beautiful flowing red calligraphy script and a subtle decorative underline flourish.\nBackground: warm ivory/off-white textured paper, subtle watercolor stains, delicate floral illustrations and soft beige botanical elements. Premium wedding stationery aesthetic.\nLighting: warm golden romantic lighting, soft highlights, natural skin texture, subtle shadows, cinematic depth, realistic fabric details and jewelry.\nComposition: vertical 4:5 poster, elegant balanced layout, large main couple on the right/center, calendar upper-left, smaller full-body couple lower-left, floral watercolor framing, sophisticated negative space, luxury Indian wedding editorial design.\nStyle: photorealistic couple photography blended with premium watercolor wedding stationery, Indian luxury wedding aesthetic, romantic anniversary card, elegant editorial typography, delicate botanical illustration, high-end invitation design, ultra-detailed, polished professional finish.\nImportant: Keep the couple's facial features, hairstyle, clothing, jewelry and identity consistent between the main portrait and the smaller full-body portrait. Avoid distorted faces, extra fingers, duplicate people, incorrect calendar dates, unreadable typography, excessive saturation, cartoon appearance, logos and watermarks.",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_029.webp",
+    "category": "Romantic",
+    "tags": [
+      "romantic",
+      "anniversary",
+      "calendar"
+    ],
+    "views": 320,
+    "copyCount": 82,
+    "isTrending": true,
+    "isPremium": false
+  },
+  {
+    "id": "prompt_030",
+    "title": "Multi-Portrait Saree Collage",
+    "prompt": "Create a photorealistic luxury Indian fashion portrait collage featuring the same young South Asian woman in five coordinated portraits, using the uploaded image as the visual reference for composition, styling and overall aesthetic.\nCentral portrait: A young South Asian woman seated gracefully and facing the camera with a warm, gentle smile. She has long, thick, naturally wavy dark hair cascading over one shoulder, a small black bindi, expressive dark eyes, natural eyebrows, soft rosy lips and subtle elegant makeup. She wears a sophisticated dusty rose/mauve silk saree with an intricate antique-gold embroidered border and matching blouse. Add traditional gold jhumka earrings and delicate Indian jewelry. Outline the central full-color subject with a thin hand-painted warm orange border, creating a subtle cutout/poster effect.\nFour background portraits: Place four different candid portraits of the same woman behind the central subject. Render all four entirely in black and white/grayscale photography:\nTop-left: close-up portrait with her chin resting gently on her hand, smiling softly toward the camera.\nTop-right: elegant side-profile/three-quarter portrait looking toward the right, with a subtle smile.\nBottom-left: candid downward-looking portrait with a gentle shy smile.\nBottom-right: three-quarter portrait looking back toward the camera with a playful natural expression.\nMaintain the same facial identity, hairstyle, bindi, earrings and overall appearance across all five portraits while naturally varying the expressions and poses.\nSeparate the grayscale portraits with irregular torn-paper white borders, creating an artistic scrapbook/collage effect. The monochrome photographs should have authentic film grain, soft contrast and realistic photographic texture.\nThe central portrait remains full color, with beautiful muted mauve/pink and antique-gold tones contrasting against the grayscale background portraits.\nLighting: soft natural window light, gentle highlights on the face and hair, subtle shadows, warm skin tones, realistic complexion and natural photographic exposure.\nComposition: vertical 4:5 portrait poster, central subject large and dominant, four grayscale portraits arranged around her, layered collage depth, clean overlapping edges, sophisticated editorial composition.\nStyle: premium Indian fashion magazine, modern scrapbook collage, cinematic portrait photography, photorealistic skin and hair, elegant traditional fashion, artistic torn-paper effect, subtle film grain, luxury editorial aesthetic, high resolution.\nColor palette: muted mauve, dusty rose, antique gold, warm skin tones, charcoal grayscale and soft white.\nNegative prompt: cartoon, anime, painting, inconsistent faces, different people, duplicate facial features, distorted hands, extra fingers, malformed jewelry, plastic skin, excessive makeup, oversaturated colors, blurry face, text, watermark, logo.",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_030.webp",
+    "category": "Collage",
+    "tags": [
+      "aesthetic",
+      "cinematic",
+      "saree"
+    ],
+    "views": 320,
+    "copyCount": 82,
+    "isTrending": true,
+    "isPremium": false
+  },
+  {
+    "id": "prompt_031",
+    "title": "4-Panel Traditional Saree Portrait",
+    "prompt": "Create a photorealistic 2×2 traditional Indian fashion portrait collage featuring the same young South Asian woman in all four panels. Use the uploaded reference image for the composition, styling, jewelry, saree, poses and overall photographic aesthetic.\nTop-left panel: A joyful close-up portrait of the woman wearing a luxurious deep maroon/burgundy saree with an antique-gold zari border. She has long, thick, naturally wavy black hair and traditional gold jewelry. She smiles brightly while playfully covering one eye with her hand, revealing an intricate mehndi/henna design on her palm. Add gold bangles, a delicate necklace and traditional earrings.\nTop-right panel: Close-up of her hands and saree. Both hands are elegantly positioned near her waist, palms partially visible with detailed dark brown mehndi patterns. Her wrists are covered with multiple traditional antique-gold bangles. Show the rich maroon saree, a contrasting warm coral-red inner fabric and an intricate broad gold zari border in extreme detail. Emphasize realistic fabric texture, jewelry reflections and henna details.\nBottom-left panel: Rear-view portrait showing the woman's very long, thick, naturally wavy black hair flowing almost to her waist. Her hair is partially decorated with a delicate traditional gold hair accessory. She wears the same maroon saree with the gold border and stands gracefully, slightly turning her head to the side. Focus on the beautiful hair texture, saree drape and jewelry.\nBottom-right panel: Elegant close-up three-quarter portrait of the same woman smiling naturally while looking toward the right. Her long wavy hair is styled back from her face with a few loose strands framing her cheeks. She wears a small black bindi, traditional gold jhumka earrings, an ornate gold necklace and matching bangles. Capture her natural smile, expressive eyes and warm skin texture.\nKeep exactly the same woman, facial features, skin tone, hairstyle, jewelry and saree styling across all four panels, while changing only the pose and camera angle.\nLighting: warm cinematic low-key lighting, soft golden highlights, subtle shadows, dark elegant background, realistic skin tones, natural reflections on gold jewelry.\nPhotography: luxury Indian bridal/fashion editorial photography, realistic DSLR photography, 50mm and 85mm portrait photography, shallow depth of field, detailed hair strands, realistic skin pores, highly detailed silk fabric, crisp jewelry details, subtle film grain.\nComposition: perfect 2×2 grid, four equal panels separated by thin dark dividers, vertical 4:5 format, carefully balanced framing, each panel focusing on a different aspect of the traditional look.\nMood: elegant, joyful, feminine, traditional, luxurious, intimate and sophisticated.\nNegative prompt: different women, inconsistent identity, duplicated face, distorted hands, extra fingers, malformed fingers, unrealistic mehndi, artificial skin, plastic face, excessive makeup, cartoon, anime, illustration, blurry details, oversaturated colors, text, watermark, logo.",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_031.webp",
+    "category": "Portrait",
+    "tags": [
+      "aesthetic",
+      "cinematic",
+      "saree"
+    ],
+    "views": 320,
+    "copyCount": 82,
+    "isTrending": true,
+    "isPremium": false
+  },
+  {
+    "id": "prompt_032",
+    "title": "Cinematic Night Street Portrait",
+    "prompt": "Create a photorealistic cinematic candid portrait of a young woman walking through a vibrant city at night. She has long, naturally wavy dark hair flowing freely around her shoulders and moving naturally with the motion of walking. She turns her head back slightly toward the camera with a subtle, spontaneous smile, creating the feeling of an authentic candid photograph.\nShe wears a simple oversized black outfit, minimal accessories and natural makeup. Her expression is relaxed, youthful and effortless. Capture realistic skin texture, natural facial proportions and individual strands of wind-blown hair.\nThe scene takes place on a busy modern city street at night, surrounded by illuminated buildings, traffic, street lamps, storefronts and distant pedestrians. The entire background is rendered with a strong shallow depth of field and beautiful circular bokeh. Warm white, amber, red, blue and cyan city lights create colorful glowing highlights behind her.\nUse a slow-shutter / motion-photography aesthetic: the woman remains relatively recognizable and naturally sharp while her flowing hair and parts of the surrounding city have subtle natural motion blur, giving the photograph a spontaneous handheld feel.\nLighting: ambient city lighting mixed with soft warm streetlights, subtle reflections on her hair and face, low-light exposure, gentle highlights, realistic shadows, cinematic night color grading.\nCamera: vertical 4:5 composition, eye-level handheld camera, 35mm lens, shallow depth of field, wide aperture around f/1.4–f/2, realistic nighttime photography, slight natural camera movement, authentic street-photography perspective.\nBackground: tall modern buildings with glowing windows, blurred traffic headlights and taillights, colorful illuminated signs, urban road, atmospheric night haze and layered bokeh.\nMood: spontaneous, youthful, romantic, urban, dreamy, energetic, candid.\nStyle: premium cinematic street photography, photorealistic, realistic low-light photography, subtle film grain, natural skin texture, soft bokeh, authentic motion blur, high dynamic range, sophisticated editorial aesthetic.\nNegative prompt: studio lighting, posed fashion shoot, excessive retouching, plastic skin, cartoon, anime, illustration, overly sharp background, daytime, distorted face, malformed hands, extra fingers, unnatural hair, excessive motion blur, text, watermark, logo.",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_032.webp",
+    "category": "Portrait",
+    "tags": [
+      "aesthetic",
+      "cinematic",
+      "Street"
+    ],
+    "views": 320,
+    "copyCount": 82,
+    "isTrending": true,
+    "isPremium": false
+  },
+  {
+    "id": "prompt_033",
+    "title": "Soft Hijab Portrait",
+    "prompt": "Create a photorealistic soft cinematic portrait of a young woman wearing a delicate ivory/cream hijab and matching lightweight traditional outfit. She has long dark hair partially visible beneath the translucent fabric, with a few natural strands softly framing her face.\nShe rests her cheek gently against one hand, creating a relaxed and intimate pose, while looking slightly toward the right side of the frame with a soft, dreamy smile. Her expression is warm, peaceful and natural.\nShe has expressive dark eyes, naturally shaped eyebrows, subtle eyeliner, soft rosy cheeks, natural pink lips and realistic glowing skin. Keep the makeup minimal and elegant, emphasizing natural beauty.\nThe hijab is made from lightweight textured cream fabric, softly wrapped around her head and shoulders with delicate folds and slightly translucent edges. Her outfit matches the same warm ivory tone with subtle woven texture.\nLighting: warm golden window light coming from the left side, creating a beautiful soft glow along her face, cheek and hijab. The opposite side fades gently into deep shadow. Add subtle warm atmospheric haze and natural light falloff.\nBackground: minimalist dark interior with a warm beige/cream area softly illuminated behind her, creating strong contrast between the bright subject and darker background. Keep the background heavily blurred and distraction-free.\nCamera: intimate close-up portrait, vertical 4:5 composition, 85mm portrait lens, wide aperture around f/1.4–f/2, shallow depth of field, soft natural bokeh, realistic facial proportions.\nStyle: luxury modest-fashion editorial photography, dreamy Instagram portrait, warm cinematic color grading, realistic skin texture, detailed fabric fibers, natural hair strands, subtle film grain, soft focus, photorealistic, high resolution.\nMood: peaceful, feminine, graceful, romantic, warm and dreamy.\nNegative prompt: heavy makeup, plastic skin, excessive beauty retouching, harsh lighting, cartoon, anime, illustration, distorted face, unnatural eyes, malformed hands, extra fingers, unrealistic fabric, oversaturated colors, text, watermark, logo.",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_033.webp",
+    "category": "Portrait",
+    "tags": [
+      "aesthetic",
+      "cinematic",
+      "Street"
+    ],
+    "views": 320,
+    "copyCount": 82,
+    "isTrending": true,
+    "isPremium": false
+  },
+  {
+    "id": "prompt_034",
+    "title": "Gold-White Saree Collage",
+    "prompt": "Create a photorealistic luxury Indian fashion collage featuring the same young woman in five coordinated portraits, using the uploaded reference image as the visual blueprint for composition, styling, poses, lighting and overall aesthetic.\nCentral full-body portrait: Show the woman standing gracefully and facing the camera with a gentle, confident smile. She has long, thick, naturally wavy dark hair cascading over her shoulders, expressive dark eyes, natural eyebrows, subtle makeup, soft rosy lips and a small elegant bindi. She wears a beautiful ivory-white saree with a wide antique-gold zari border, paired with a richly embroidered deep red/maroon blouse. Add traditional gold jhumka earrings, delicate jewelry and multiple red/gold bangles. Her hands are naturally clasped in front of her waist. The saree should have realistic translucent fabric, detailed pleats and elegant gold woven patterns.\nFour surrounding portraits: Arrange four different portraits of the same woman around the central figure, rendered entirely in black and white/grayscale:\nTop-left: close-up portrait with her cheek resting gently on her hand, looking toward the camera with a soft smile.\nTop-right: three-quarter portrait, looking slightly sideways with a graceful expression, showing her long wavy hair and traditional earrings.\nBottom-left: candid seated portrait with her eyes looking downward and a shy gentle smile.\nBottom-right: close-up portrait with her chin resting on her hand, looking toward the camera with a warm smile.\nKeep the same facial identity, hairstyle, jewelry, saree styling and proportions across all five portraits. The grayscale portraits should feel like authentic black-and-white photographs with subtle film grain and natural contrast.\nCollage design: Place the central color portrait in front of the four monochrome photographs, separated by clean white vertical and horizontal borders. Add delicate clusters of small white blossoms and green foliage around the upper-left and lower-right corners, creating an elegant botanical frame.\nLighting: soft natural daylight with warm golden highlights on the central portrait, gentle shadows, realistic skin texture and subtle hair highlights. The monochrome portraits use soft editorial lighting with beautiful grayscale tonal range.\nComposition: vertical 4:5 fashion editorial poster, central full-body subject dominant, four grayscale portraits arranged symmetrically around her, clean geometric collage layout, sophisticated negative space, premium Indian fashion magazine aesthetic.\nStyle: photorealistic Indian fashion photography, luxury saree editorial, elegant wedding-inspired aesthetic, realistic silk texture, detailed jewelry, natural skin, cinematic color grading, fine film grain, high resolution, polished professional photography.\nColor palette: ivory white, antique gold, deep maroon, natural skin tones, charcoal grayscale and soft botanical green.\nNegative prompt: different people, inconsistent facial identity, duplicated faces, cartoon, anime, painting, artificial skin, excessive makeup, distorted hands, extra fingers, malformed jewelry, unrealistic saree folds, oversaturated colors, blurry face, text, watermark, logo.",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_034.webp",
+    "category": "Collage",
+    "tags": [
+      "aesthetic",
+      "cinematic",
+      "saree"
+    ],
+    "views": 320,
+    "copyCount": 82,
+    "isTrending": true,
+    "isPremium": false
+  },
+  {
+    "id": "prompt_035",
+    "title": "Maroon & Emerald Lehenga Portrait",
+    "prompt": "Create a photorealistic cinematic Indian fashion portrait of a young woman wearing an elegant deep emerald-green lehenga choli with a rich maroon dupatta.\nShe has long, thick, naturally wavy black hair flowing freely around her shoulders and back, with a few loose strands naturally framing her face. She has expressive dark eyes, naturally defined eyebrows, subtle elegant makeup, warm glowing skin and a bright genuine smile showing her teeth.\nShe wears a beautifully embroidered dark emerald-green short-sleeved blouse and matching flared lehenga, decorated with tiny antique-gold floral motifs and intricate gold embroidery along the hem. A luxurious deep maroon dupatta is draped diagonally around her body, featuring delicate gold patterns and an ornate gold embroidered border. Add minimal traditional jewelry, small earrings, a delicate necklace and subtle bangles.\nPose: She is seated gracefully outdoors, with the lehenga spread naturally around her in a wide circular flow. Her body is angled slightly away from the camera while she looks upward toward the camera with a joyful, candid smile. One hand rests naturally beside her on the ground while the other gently holds the edge of the maroon dupatta, allowing the fabric to flow outward.\nEnvironment: beautiful outdoor setting with a warm textured stone pathway beneath her. Surround the upper portion of the frame with softly blurred green tree leaves and branches. Bright afternoon sunlight filters through the foliage, producing beautiful circular golden sun flares and dappled light across the background.\nLighting: warm golden-hour sunlight, soft natural highlights on her face and hair, subtle rim light around her hair, realistic shadows, glowing skin, cinematic exposure, natural outdoor illumination.\nCamera: high-angle portrait photography looking slightly downward, vertical 4:5 composition, 50mm lens, shallow depth of field, subject sharply focused while the foliage and background are softly blurred, natural perspective.\nStyle: luxury Indian fashion editorial photography, candid wedding-fashion aesthetic, photorealistic skin texture, detailed embroidery, realistic fabric folds, flowing textile movement, cinematic color grading, warm golden tones, subtle film grain, professional DSLR photography, ultra-detailed, high resolution.\nMood: joyful, feminine, elegant, festive, youthful, romantic and carefree.\nNegative prompt: cartoon, anime, illustration, artificial skin, excessive retouching, distorted face, malformed hands, extra fingers, unrealistic fabric, stiff pose, over-saturated colors, harsh shadows, blurry subject, text, watermark, logo.",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_035.webp",
+    "category": "Portrait",
+    "tags": [
+      "aesthetic",
+      "cinematic",
+      "saree"
+    ],
+    "views": 320,
+    "copyCount": 82,
+    "isTrending": true,
+    "isPremium": false
+  },
+  {
     "id": "prompt_001",
     "title": "Cinematic Rain Portrait",
     "prompt": "A cinematic photorealistic portrait of a young adult standing on a rain-soaked city street at night, subtle neon reflections, natural skin texture, expressive eyes, soft rim light, shallow depth of field, 85mm lens, f/1.8, atmospheric mist, editorial photography, ultra-detailed, realistic lighting.",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_001.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_001.webp",
     "category": "Portrait",
     "tags": [
       "cinematic",
@@ -20,7 +258,7 @@
     "id": "prompt_002",
     "title": "Golden Hour Portrait",
     "prompt": "A warm photorealistic portrait of a young adult during golden hour, soft sunlight wrapping around the face, gentle highlights in the hair, natural skin texture, creamy background bokeh, relaxed expression, 85mm portrait lens, shallow depth of field, premium lifestyle photography.",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_002.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_002.webp",
     "category": "Portrait",
     "tags": [
       "golden hour",
@@ -36,7 +274,7 @@
     "id": "prompt_003",
     "title": "Luxury Studio Portrait",
     "prompt": "A high-end studio portrait of a confident young adult wearing an elegant dark outfit, sculpted softbox lighting, subtle shadows, clean charcoal background, refined pose, realistic skin pores, crisp eyes, professional fashion editorial photography, 85mm lens.",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_003.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_003.webp",
     "category": "Portrait",
     "tags": [
       "studio",
@@ -52,7 +290,7 @@
     "id": "prompt_004",
     "title": "Black and White Classic",
     "prompt": "A timeless black-and-white portrait of a thoughtful young adult, dramatic side lighting, rich tonal range, authentic skin texture, subtle film grain, classic expression, dark seamless background, 85mm lens, fine-art photography.",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_004.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_004.webp",
     "category": "Portrait",
     "tags": [
       "black and white",
@@ -68,7 +306,7 @@
     "id": "prompt_005",
     "title": "Neon Cyber Portrait",
     "prompt": "A futuristic portrait of a young adult illuminated by magenta and cyan neon lights, reflective urban background, subtle haze, realistic skin texture, confident expression, cinematic contrast, shallow depth of field, 50mm lens, premium cyberpunk photography.",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_005.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_005.webp",
     "category": "Portrait",
     "tags": [
       "neon",
@@ -84,7 +322,7 @@
     "id": "prompt_006",
     "title": "Moonlit Glasshouse - Champagne Rose Lehenga",
     "prompt": "Create a breathtaking ultra-photorealistic 9:16 vertical fashion photograph using the uploaded photograph as the EXACT identity reference. Preserve her exact facial identity, facial structure, skin tone, natural skin texture, hairline, and all recognizable features.\nDress her in an exceptionally luxurious, perfectly tailored champagne-rose lehenga with an elegant fitted blouse and flowing skirt. The fabric should look like premium silk-organza with realistic weight and texture. Add extremely tiny hand-applied diamond-like crystal details, scattered delicately across the embroidery—micro-sized, refined, subtle, and expensive-looking, never oversized or glittery.\nPlace her standing inside a magnificent glass-roofed Indian courtyard conservatory at night, surrounded by tall white flowers, delicate greenery, dark stone flooring, and elegant architectural columns. She stands naturally beside the flowers, body slightly turned, one hand gently touching the fabric of her dupatta while she looks toward the camera with a quiet, dreamy expression. Completely different composition from a staircase portrait.\nThe environment is genuinely dark nighttime, but intense soft WHITE LIGHT RAYS stream diagonally through the glass roof and atmospheric haze, creating realistic volumetric beams around her. The light rays should softly illuminate her face, shoulders, and champagne lehenga while the distant background remains deep, shadowy, and mysterious. The beams must look like real cinematic light passing through moisture and fine dust in the air, not artificial glowing lines.\nUse an extremely aesthetic dreamy cinematic filter: pronounced soft-focus diffusion, gentle overall photographic blur, subtle edge softness, creamy lens haze, delicate halation around the white light rays, soft bloom on highlights, faint atmospheric mist, fine analog film grain, slightly faded colors, low-contrast shadows, and a beautiful warm champagne-and-cool-night color balance. Keep her eyes and central facial features naturally recognizable while allowing the edges of the outfit and background to have a soft dreamy blur.\nMake the photograph feel like an expensive modern Indian couture editorial captured through a dreamy cinematic lens. Realistic skin pores, realistic hands, natural anatomy, physically accurate fabric folds, believable embroidery, and perfectly fitted clothing.\nNo daytime, no visible sun, no literal sun, no neon beams, no oversized diamonds, no giant sequins, no excessive glitter, no plastic skin, no excessive AI glow, no fantasy environment, no altered face, no distorted hands, no extra fingers, no text, no watermark.",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_006.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_006.webp",
     "category": "Portrait",
     "tags": [
       "studio",
@@ -100,7 +338,7 @@
     "id": "prompt_007",
     "title": "Ethereal Underwater Portrait | Dreamy Light Reflections",
     "prompt": "Create an extreme close-up underwater portrait after the subject has just jumped into a swimming pool or clear shallow water. Keep the mood calm, weightless, and ethereal, emphasizing light reflections. No struggle or urgency.",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_007.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_007.webp",
     "category": "Portrait",
     "tags": [
       "underwater",
@@ -116,7 +354,7 @@
     "id": "prompt_008",
     "title": "Giant Phone Music Scene",
     "prompt": "Use the uploaded user photo as the **ONLY source of the main subject’s identity**. Preserve the user’s exact recognizable identity with maximum fidelity: facial structure, face shape, proportions, forehead, hairline, eyebrows, natural eye shape and spacing, nose, lips, cheeks, cheekbones, jawline, chin, skin tone, natural skin texture, facial hair if present, and every distinctive facial characteristic. **Do not copy the reference person’s identity. Do not beautify, reshape, slim, age, de-age, masculinize, feminize, or reinterpret the user’s face. The final person must remain unmistakably the same individual as the uploaded user photo.**\nUse the reference image as the **ONLY source for the subject’s expression, emotion, gaze, head position, body pose, clothing, accessories, environment, composition, camera perspective, lighting, and overall visual style.** Ignore the original expression, gaze, and pose from the user photo.\nRecreate the reference as a photorealistic high-end lifestyle/editorial photograph. Show the user’s full body standing on the enormous screen of a modern smartphone displaying a dark Spotify-style music-player interface. The phone lies diagonally across a light gray stone/tile floor, with its top portion extending toward the upper-left and its bottom edge toward the lower-right. The camera is positioned high above the phone at a strong overhead three-quarter angle, looking downward toward the subject and screen. Use a slightly wide smartphone-camera perspective with realistic spatial depth and natural proportions.\nThe subject stands upright near the center-upper portion of the giant phone display, appearing physically present on top of the screen. Their body is viewed from a high angle. Keep the exact reference posture: torso upright with a relaxed, confident stance; shoulders naturally positioned; one hand resting inside the pocket of the black shorts while the opposite arm hangs naturally beside the body with the hand relaxed. Legs are slightly separated in a casual standing position, with realistic weight distribution. Reproduce the reference head position precisely: head tilted slightly upward toward the camera, chin subtly raised, face turned toward the overhead camera, creating a confident, composed attitude.\nRecreate the reference facial expression exactly using the user’s identity: serious, calm, slightly contemplative and confident, with relaxed facial muscles and no smile. Eyebrows should have the same subtly focused position as the reference. Eyes should be naturally open and directed upward toward the camera from the elevated viewpoint. **The user’s original gaze and expression must not influence the result.** Preserve the user’s own eyes and facial anatomy while reconstructing only the reference expression and gaze.\nDress the user in the same overall outfit styling as the reference: oversized/plain white short-sleeve T-shirt, loose black knee-length shorts, clean white low-top athletic sneakers, dark/black baseball cap, large over-ear black wireless headphones, dark rectangular sunglasses, and a metallic wristwatch on the wrist of the visible lowered arm. Preserve realistic fabric folds, natural clothing volume, accurate accessory placement, and believable interaction between the clothing and body.\nThe giant smartphone beneath the subject should have a premium metallic silver/champagne-colored frame with rounded corners, realistic glass reflections, thin bezels, and visible speaker/microphone openings and charging-port details along the bottom edge. Its screen is extremely large relative to the person, functioning like a miniature environment/platform. Display a dark music-streaming interface beneath and around the subject, with recognizable Spotify-inspired visual language: black/dark charcoal background, green circular play controls, music thumbnails, white song titles, artist names, progress bar, playback controls, and bottom navigation icons. Keep the interface visually integrated with the perspective of the phone screen rather than floating independently.\nThe visible screen should contain a vertical music list along the left/lower portion with multiple album thumbnails and readable-looking song rows, while large green circular controls appear toward the right side. Include a bottom navigation area with Home, Search, and Your Library-style sections and a horizontal playback/progress area near the lower portion of the display. Text should remain subtle and naturally perspective-distorted; do not allow text to dominate the image.\nPlace the giant phone on a clean, matte light-gray stone or concrete tiled floor. The floor should have subtle seams, fine texture, soft tonal variation, and realistic ambient shadows. In the upper-left corner, partially visible, include a white cylindrical plant pot containing green leafy foliage, matching the reference composition. Keep the rest of the background minimal and uncluttered.\nUse soft natural overhead daylight with gentle diffused illumination, realistic contact shadows beneath the subject’s shoes, subtle reflections across the phone glass, and soft ambient shadows around the phone edges. Maintain the reference’s muted neutral gray palette, with the white shirt and sneakers contrasting against the black screen and black clothing, while the green interface controls provide restrained color accents.\nComposition must closely match the reference: vertical portrait orientation, full smartphone visible from near the upper-left/top region through the bottom-right edge, full-body subject positioned on the screen, generous surrounding floor visible, and the plant pot partially entering from the upper-left corner. Maintain the same diagonal phone orientation, subject scale, spacing, camera height, perspective, and visual balance. Do not crop the head, feet, or important phone edges.\nCreate a highly realistic photographic result with natural skin texture, realistic anatomy, physically accurate hands and fingers, believable clothing folds, detailed hair, realistic headphone construction, authentic sunglasses reflections, accurate shoe proportions, subtle glass reflections, and convincing integration of the person with the giant phone surface. Use high-resolution detail, crisp subject rendering, controlled depth of field, realistic shadows, premium editorial photography quality, subtle cinematic tonality, and natural color grading.\n**IDENTITY PRIORITY:** the uploaded user photo determines exactly WHO the person is. **REFERENCE PRIORITY:** the reference determines HOW that person looks in the scene—expression, emotion, gaze, head angle, pose, clothing, accessories, composition, camera angle, environment, lighting, and style. Never substitute the reference person’s face or identity for the user’s identity. Never retain the user photo’s original expression, gaze, or pose. The final image must look like the user naturally photographed in this exact giant-smartphone music-player scene.",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_008.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_008.webp",
     "category": "Casual",
     "tags": [
       "casual",
@@ -132,7 +370,7 @@
     "id": "prompt_009",
     "title": "Luxury Night Mirror Selfie",
     "prompt": "Create a highly realistic professional editorial mirror selfie portrait of a young South Asian man in a premium modern interior.\nPOSE:\nHe is standing naturally in front of a large curved mirror, holding a black smartphone in one hand while the other hand gently adjusts the open collar of his shirt. His head is slightly tilted with a calm, confident expression. Keep the pose relaxed, natural, and anatomically correct.\nWARDROBE:\nPremium black collared shirt with the top buttons slightly open, revealing a subtle silver chain. Add a sophisticated dark wristwatch. Keep the styling minimal, masculine, and elegant.\nENVIRONMENT:\nA luxurious dimly lit interior with dark textured stone or marble walls, warm architectural accent lighting, subtle reflections, and a small amount of blurred greenery in the background. The environment should feel modern, premium, and atmospheric.\nLIGHTING:\nMoody cinematic indoor lighting with soft warm highlights and controlled shadows. Natural skin tones, realistic contrast, subtle highlights on the hair and clothing, and no excessive orange or yellow color cast.\nCAMERA & OPTICS:\nProfessional DSLR photography aesthetic, realistic mirror photography, 50mm–85mm lens look, shallow depth of field, natural perspective, detailed subject with softly blurred background.\nIMAGE QUALITY:\nUltra-realistic photographic rendering, natural skin pores and texture, detailed individual hair strands, realistic beard and moustache, accurate hands and fingers, realistic fabric texture, physically accurate reflections, subtle cinematic color grading, premium editorial fashion photography quality.\nIDENTITY:\nIf a reference image is provided, preserve the subject's facial identity exactly. Keep the original face shape, jawline, cheekbones, forehead, nose, lips, eyes, eyebrows, ears, hairstyle, beard, moustache, natural facial asymmetry, and original skin tone. Do not face-swap, beautify, reshape, age, or regenerate the identity.\nThe final image should look like a genuine professional photograph, not an artificial or overly processed AI image.",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_009.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_009.webp",
     "category": "Selfie",
     "tags": [
       "selfie",
@@ -148,7 +386,7 @@
     "id": "prompt_010",
     "title": "Aesthetic MT15 Bike Pose ",
     "prompt": "young man with dark, curly hair and a light beard, wearing a white collared shirt with an open neckline, leans casually against a black and cream Yamaha MT15 motorcycle. He is looking off to the left with a thoughtful expression. The background features a textured concrete wall and lush green foliage, suggesting an outdoor setting on a sunny day, wideangle",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_010.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_010.webp",
     "category": "Bike Pose",
     "tags": [
       "aesthetic",
@@ -164,7 +402,7 @@
     "id": "prompt_011",
     "title": "Aesthetic RE Bike Pose ",
     "prompt": "young man with dark, curly hair and a light beard, wearing a white collared shirt with an open neckline, leans casually against a black and cream Royal Enfield motorcycle. He is looking off to the left with a thoughtful expression. The background features a textured concrete wall and lush green foliage, suggesting an outdoor setting on a sunny day",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_011.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_011.webp",
     "category": "Bike Pose",
     "tags": [
       "aesthetic",
@@ -180,7 +418,7 @@
     "id": "prompt_012",
     "title": "Ultra-Photorealistic 9:16 Three-Panel Editorial Portrait Collage",
     "prompt": "Use the uploaded reference image as the absolute visual blueprint. Recreate it as closely as possible. Preserve the exact 3-panel horizontal-stack composition, panel proportions, subject identity, facial structure, hairstyle, hair texture, head direction, eye direction, body orientation, pose, camera perspective, framing, crop, white shirt, necklace, gray wall, sunlight/shadow patterns, exposure, color tone, softness, and overall photographic aesthetic. The result must look like the same person photographed in the same environment.\nSUBJECT / IDENTITY\nSame young adult man throughout all 3 panels. Thick, naturally voluminous medium-length black hair; slightly messy, naturally wavy, textured strands over the forehead with realistic density, flyaways, and individual hairs. Natural youthful male face with defined jawline, straight nose, natural lips, thick dark eyebrows, brown/hazel-brown eyes, subtle mustache, and short beard/goatee around chin and jaw. Real skin pores and imperfections. Do not beautify, redesign, or alter identity or facial proportions.\nLoose oversized bright white/cream-white button-up shirt, open relaxed collar with several upper buttons undone, lightweight fabric with natural folds and wrinkles. Visible collarbone/upper chest. Thin delicate silver chain necklace naturally visible around the neck and inside the open collar.\nPANEL 1 — MAIN PORTRAIT\nTop panel: close upper-body portrait, approximately 50–70mm equivalent. Subject positioned slightly RIGHT, shoulders/torso naturally angled, head turned RIGHT, eyes looking RIGHT away from camera. Calm, serious, relaxed, slightly thoughtful expression; neutral/slightly raised chin.\nCrop from upper chest/shoulders to top of hair. Face occupies the upper-right area; soft negative space on the LEFT. Keep right-side face and hair visible.\nPANEL 2 — EXTREME EYE CLOSE-UP\nMiddle panel: extreme close-up showing both eyes, thick eyebrows, upper nose bridge, surrounding skin, and portions of messy black hair. Eyes continue looking RIGHT, never at camera. Natural brown/hazel-brown irises with detailed texture, catchlights, eyelashes, and individual eyebrow hairs. Hair naturally crosses the forehead/eyebrow area.\nExtremely realistic skin with visible pores, fine lines, and subtle under-eye texture; no smoothing or beauty filter. Eyes dominate the panel, with partial nose visible at bottom and face naturally extending beyond side edges.\nPANEL 3 — DOWNWARD/RIGHT PROFILE\nBottom panel: medium close-up, clear side/three-quarter profile facing RIGHT. Head slightly tilted downward; eyes looking downward/right. Calm, quiet, introspective expression.\nShow face, jawline, neck, upper chest, shoulders, white shirt, and silver necklace. Head occupies upper-right; shirt fills lower area; soft gray wall remains on LEFT. Maintain identical hairstyle, facial identity, clothing, lighting, and environment.\nENVIRONMENT / LIGHTING\nSame minimal pale light-gray/off-white indoor wall in every panel, with subtle texture, vertical architectural edge on LEFT, and soft rectangular/window-shaped sunlight and gray shadow patterns.\nBright natural daylight with warm-neutral sunlight on face and shirt; gentle highlights on forehead, cheeks, nose and neck; soft jaw/hair shadows; slight dreamy photographic glow. High-key editorial exposure, muted warm-neutral tones, creamy white shirt, pale gray background, soft neutral shadows, gentle contrast, subtle film-like softness/grain. No teal/orange grade, oversaturation, or HDR.\nPHOTOGRAPHY / REALISM\nProfessional high-resolution editorial portrait photography with realistic modern smartphone-camera optical rendering. Natural perspective, no wide-angle distortion. Soft depth of field while keeping the environment recognizable and gently softened. Panel 2 uses macro/telephoto-style eye detail. Genuine photographic appearance.\nMaximum photorealism: real human skin, pores, eyelashes, eyebrow hairs, individual hair strands, facial hair, cotton texture, natural optical rendering, authentic sunlight/shadows, subtle grain. Must look like a real photograph, never AI artwork.\nCOLLAGE\nExactly THREE horizontal photographic panels stacked vertically:\n1. Main three-quarter portrait looking RIGHT\n2. Extreme eye close-up looking RIGHT\n3. Downward/right-facing side profile\nClean horizontal transitions. No borders, frames, decorative elements, text, or additional panels.\nABSOLUTE CONTINUITY\nAll panels must depict the exact same person and photoshoot. Maintain identical identity, facial proportions, hairstyle, hair length/texture, eyebrows, eyes, nose, lips, facial hair, skin tone, necklace, shirt, lighting, wall, sunlight/shadows, color grading, camera perspective, and photographic softness.\nNEGATIVE PROMPT\nDifferent person, identity change, face redesign, beautification, altered facial proportions, different hairstyle, short hair, different clothing, jacket, tie, different necklace, direct eye contact, left-facing gaze, smile, exaggerated expression, extra/missing panels, incorrect panel proportions, different location, outdoor background, dark/colorful wall, changed sunlight or shadows, harsh/neon lighting, excessive blur, extreme bokeh, plastic skin, skin smoothing, distorted eyes, asymmetrical eyes, deformed face, extra facial features, CGI, 3D render, cartoon, painting, illustration, oversaturation, HDR, artificial skin texture, unrealistic hair, unrealistic fabric.",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_012.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_012.webp",
     "category": "Collage",
     "tags": [
       "Photorealistic",
@@ -196,7 +434,7 @@
     "id": "prompt_013",
     "title": "Black Suit Look",
     "prompt": "Use the uploaded portrait as the ONLY identity reference. Preserve my exact face, facial proportions, eyes, nose, lips, jawline, beard, skin tone, age, hairline, hairstyle and natural hair texture. Do not alter my identity or facial features.\nRecreate the reference image as an ultra-realistic photograph.\nA young man in an all-black tailored suit: black blazer, open black button-up shirt and black trousers, wearing dark rectangular sunglasses and a realistic silver wristwatch.\nHe stands in a relaxed three-quarter pose, with his left shoulder and upper back naturally leaning against the dark textured pillar on the LEFT edge. His head is turned toward the RIGHT, looking away from the camera with a calm, confident expression. His right hand naturally holds a realistic Apple iPhone 17 Pro in a slim dark case low around his abdomen/waist. His left hand rests naturally inside his trouser pocket.\nKeep the exact composition: subject slightly RIGHT of center, pillar on the LEFT, pale modern architectural background, subtle greenery at lower-right.\nVertical 4:5 portrait, camera 2.5–3 metres away, chest-to-eye camera height, 70–85mm portrait perspective, natural proportions, framing from slightly above the head to the upper thighs.\nNatural bright daylight, realistic skin tone and pores, individual hair and beard strands, authentic fabric texture, realistic shadows and reflections, natural depth of field and restrained color grading.\nMake it look like a genuine DSLR/mirrorless photograph. No face change, hairstyle change, plastic skin, beauty filter, CGI look, wide-angle distortion, warped hands, extra fingers or distorted phone.",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_013.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_013.webp",
     "category": "Portrait",
     "tags": [
       "Photorealistic",
@@ -212,7 +450,7 @@
     "id": "prompt_014",
     "title": "Ultra realistic cinematic portrait of a young man",
     "prompt": "Create an ultra-realistic, natural cinematic full-body vertical 9:16 fashion photograph of a young South Asian/Indian man casually sitting on the front bonnet of a large white luxury SUV, matching the reference image's composition, pose, camera perspective, framing, environment, lighting, and overall Instagram aesthetic.\nIDENTITY & APPEARANCE:\nUse the uploaded portrait reference as the ONLY identity and appearance reference for the subject. Preserve his exact natural facial identity, face shape, facial structure, eyes, eyebrows, nose, lips, jawline, ears, skin tone, hairstyle, hair texture, and natural body proportions. Do not beautify, reshape, age, de-age, or alter his identity.\nPOSE:\nThe subject is sitting casually on the front-left portion of the SUV bonnet, slightly above the grille. His torso is angled toward the camera while his head is tilted downward and turned slightly toward his left, looking at his own hand/shirt rather than directly at the camera.\nHis right hand rests naturally on the SUV bonnet near the grille, while his left hand is raised near the center of his chest in a relaxed, candid gesture. His shoulders are loose and his posture is effortless.\nHis legs hang naturally downward from the bonnet, with one leg extended slightly farther forward than the other. Both feet are clearly visible. Keep the pose anatomically realistic and relaxed.\nOUTFIT:\nLoose oversized earthy-brown/rust-brown short-sleeve button-up shirt with a relaxed fit, natural wrinkles and realistic fabric folds.\nVery loose light-wash blue baggy jeans with wide legs and authentic denim texture.\nWhite chunky slip-on sneakers with subtle perforated detailing, thick layered soles, and realistic material texture.\nVEHICLE:\nA large modern white Range Rover luxury SUV positioned directly behind and beneath the subject.\nClearly show the white bonnet, black front grille, headlights, Range Rover lettering, front bumper, and realistic vehicle details. The SUV should have glossy white paint with subtle reflections from the surrounding trees.\nKeep the SUV naturally parked on an urban roadside and maintain realistic vehicle proportions.\nCAMERA & COMPOSITION:",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_014.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_014.webp",
     "category": "Portrait",
     "tags": [
       "Cinematic",
@@ -228,7 +466,7 @@
     "id": "prompt_015",
     "title": "Warm Golden Hour Indoor Portrait",
     "prompt": "Create a highly realistic professional indoor portrait of the SAME WOMAN from the uploaded reference image.\nIDENTITY PRESERVATION — STRICT:\nKeep her facial identity 100% identical to the reference image. Do not regenerate, replace, beautify, or alter her face. Preserve the exact face shape, forehead, eyebrows, eyes, nose, lips, cheeks, jawline, ears, natural facial asymmetry, skin tone, bindi, hairstyle, and all recognizable facial details. No face swap and no artificial facial reconstruction.\nPOSE & EXPRESSION:\nKeep a natural seated portrait pose beside a window. She gently rests one hand against her cheek and looks directly toward the camera with a soft, calm, subtle smile. Preserve a relaxed and natural body posture.\nOUTFIT:\nKeep the same elegant pink saree with its original printed pattern and matching blouse. Preserve the fabric texture, folds, draping style, jewelry, and bindi naturally.\nENVIRONMENT:\nTransform the setting into a beautiful cozy Indian home interior with warm wooden furniture, a large window, soft curtains, a few natural green indoor plants, and subtle lifestyle elements such as books and a simple ceramic coffee mug. Keep the environment realistic and tasteful, without distracting from the subject.\nLIGHTING:\nUse beautiful natural golden-hour sunlight entering through the window from the side and slightly behind her, creating a soft warm rim light around her hair and shoulders. Add gentle natural fill light on the face. Preserve realistic highlights and shadows without overexposure.\nCAMERA & QUALITY:\nProfessional DSLR portrait photography, full-frame camera look, 85mm portrait lens, approximately f/1.8 aperture, shallow depth of field, realistic optical bokeh, sharp focus on the eyes, natural skin pores and fine facial details, realistic hair strands, authentic fabric texture, cinematic tonal range, subtle warm color grading, accurate Indian skin tone, soft highlight roll-off, high dynamic range, ultra-detailed photorealistic quality, premium editorial photography.\nCOMPOSITION:\nVertical 4:5 portrait composition, medium close-up framing, subject naturally positioned in the frame, realistic depth and perspective, clean visual hierarchy.\nIMPORTANT:\nDo not change her identity, age, facial structure, body proportions, skin tone, or recognizable features. Do not make the skin plastic or overly smooth. Avoid excessive HDR, oversharpening, artificial glow, orange skin, distorted hands, extra fingers, duplicate objects, or an obvious AI-generated appearance.\nFINAL RESULT:\nThe image must look like a real professional DSLR photograph captured naturally inside a beautiful home during warm golden-hour window light.",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_015.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_015.webp",
     "category": "Portrait",
     "tags": [
       "Cinematic",
@@ -244,7 +482,7 @@
     "id": "prompt_016",
     "title": "Cinematic photo collage",
     "prompt": "A complex vertical photo collage featuring a beautiful young South Asian woman. The background consists of a vertical grid stacked with four horizontal monochrome black and white photo panels, each capturing different candid and moody expressions of the same woman outdoors. Layered prominently on top in sharp focus is a full-color, realistic foreground portrait of the woman. She is wearing a crisp white button-down shirt and black trousers, stylishly touching her dark tortoiseshell sunglasses and looking at the camera. Her long brown hair flows naturally. High contrast, clean editorial magazine style, selective color effect, photorealistic, 8k resolution --ar 9:16 --v 6.1",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_016.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_016.webp",
     "category": "Collage",
     "tags": [
       "blackandwhite",
@@ -260,7 +498,7 @@
     "id": "prompt_017",
     "title": "Aesthetic scrapbook collage of a beautiful Women",
     "prompt": "A romantic vertical scrapbook photo collage featuring multiple overlapping panels of a beautiful young South Asian woman (Rashmika Mandanna lookalike). The main image is a soft portrait of her smiling gently at the camera, wearing a deep maroon traditional outfit and ornate golden jhumka earrings. Other panels show a close-up of her expressive brown eyes, a side profile view, and a close-up of her lips. Superimposed on the bottom left is a frosted glass translucent music player widget displaying \"Tum Mile - Jubin Nautiyal, Payal Dev\" with playback controls. The bottom right features delicate cursive handwriting that reads \"Some memories never fade, they just become our favourite melodies.\" Embellished with soft-focus orange lilies, warm golden lighting, film grain texture, and an elegant romantic aesthetic. Photorealistic, ultra-detailed, 8k resolution --ar 9:16 --v 6.1",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_017.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_017.webp",
     "category": "Aesthetic",
     "tags": [
       "aesthetic",
@@ -276,7 +514,7 @@
     "id": "prompt_018",
     "title": "Ultra realistic cinematic portrait of a romantic couple",
     "prompt": "An ultra-realistic, candid full-body p hoto of a young South Asian couple posing together in front of a vibrant , colorful street art mural. The man on the left is athletic, with wearing black sunglasses, a white long-slee ve waffle-knit polo shirt, dark grey st raight-leg denim jeans, and grey sne akers. The woman on the right is s miling gently, with long dark straight hair, wearing a cozy cream-colored knit sweater, dark brown wide-leg trousers, and white sneakers with a p ink accent. She gently holds his arm . The background is a large, artistica lly painted outdoor wall featuring pu blic mural artwork in bold earthy an d warm tones. Natural bright daylight, professional street style photography, sharp focus, 8k resolution, photorealistic details. Photo size 3:4",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_018.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_018.webp",
     "category": "Romantic",
     "tags": [
       "realistic",
@@ -292,7 +530,7 @@
     "id": "prompt_019",
     "title": "Ultra realistic cinematic portrait of a romantic couple",
     "prompt": "Golden-hour park setting, blurred bokeh trees, warm string/fairy lights, blooming pink flowers, lamp post in background, wooden bench.\nWoman (left): dark hair in a high bun with loose\nface-framing strands; sage-green embroidered suit with matching dupatta over one shoulder; small bindi; silver jhumka earrings, stacked bangles; arms crossed; body turned slightly toward man, giving a skeptical sideways glance, lips neutral/slightly pursed.\nMan (right): dark wavy voluminous hair; both hand raised tugging his own both ear (playful/shy gesture feel sorry), black wristband; open-collar beige/khaki shirt, sleeves rolled up, dark trousers; leaning toward woman, playful smirk, eyes fixed affectionately on her.\n96\nFace: match uploaded selfie exactly - same face shape, features, skin tone.\nStyle: painterly realism, warm golden-hour lighting, soft bokeh with light flares, romantic mood, rich warm color grading.",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_019.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_019.webp",
     "category": "Romantic",
     "tags": [
       "realistic",
@@ -308,7 +546,7 @@
     "id": "prompt_020",
     "title": "Handsome young man standing music list",
     "prompt": "A cinematic, music-inspired editorial portrait of a handsome young Indian man standing against a warm burnt-red to amber gradient wall in a dimly lit room, immersed in the feeling of nostalgic late-night music. The composition combines luxury portrait photography with a translucent floating music player interface, creating a dreamy \"\"music memories\"\" atmosphere.\nThe young Indian man stands casually in a relaxed three-quarter profile. One hand rests naturally inside his trouser pocket while the other hangs loosely by his side as if walking slowly. His head is slightly lowered, eyes looking downward with a calm, introspective expression that conveys nostalgia, solitude, and quiet emotional reflection. A subtle double-exposure effect and gentle motion blur soften parts of his silhouette, creating the impression of drifting through memories.\nHe has naturally messy medium-length black hair with soft textured strands, smooth youthful skin, expressive eyes, defined facial features, and a sharp jawline. Warm cinematic side lighting illuminates only part of his face while leaving the rest in soft shadow, maintaining a mysterious mood.\nHe wears a light beige short-sleeve patterned linen button-up shirt with the top buttons casually open, revealing a simple silver chain necklace. The linen fabric has realistic folds, rich texture, and warm highlights. He pairs it with relaxed black tailored trousers for a clean contemporary editorial aesthetic.\nThe background features a smooth amber-to-burnt-orange gradient illuminated with soft cinematic haze. Fine analog film grain, floating dust particles, gentle bokeh, and subtle horizontal light streaks evoke the feeling of an old projector or vintage evening light. The overall environment feels warm, intimate, and timeless.\nFloating beside the subject is a semi-transparent modern music player interface integrated naturally into the scene rather than appearing as a phone screenshot. The interface contains a clean vertical playlist with realistic square album artwork, elegant white song titles, smaller gray artist names, refined spacing, soft glow, translucent glass effects, and subtle blur, appearing like a projected memory.\nThe playlist includes nostalgic South Indian classics such as:\n• Tujhe Main Pyar Karoon\n• Meri Zindagi Hai Tu\n• Dil Lagana Mana Tha\n• Gal Sun\n• Jaan Se Guzarte Hain\n• Apsraa 2\n• Resham Di Guddi\n• Aawaara Angaara Tere Ishk Mein\n• MAFIA\nThe interface blends seamlessly into the composition with premium typography, floating translucent layers, soft illumination, and realistic modern UI styling.\nLighting is warm cinematic side lighting with soft rim light, dreamy shadows, gentle diffusion, shallow depth of field, subtle motion blur, analog film grain, and realistic skin texture. The image should feel emotional, luxurious, and timeless.\nColor palette: warm orange, amber, burnt red, muted beige, soft black, subtle cream highlights.\nPhotography style:\nLuxury editorial fashion photography, cinematic storytelling, analog film aesthetic, modern lifestyle campaign, high-end magazine portrait, dreamy nostalgia, premium color grading, shallow depth of field, minimalist composition, emotional realism.\nInspired by the visual language of romantic Hong Kong cinema, analog Kodak Portra 400 photography, contemporary luxury fashion editorials, and premium music campaign photography.\nUltra-realistic, HDR, 8K, masterpiece quality, ultra-detailed, soft cinematic diffusion, 4:5 aspect ratio.\nNegative prompt:\nwatermark, logo, signature, text artifacts, random letters, UI glitches, distorted face, extra limbs, bad anatomy, low quality, blurry face, oversharpening, oversaturated colors, duplicate subject, cropped head, compression artifacts.",
-    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_020.webp",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/prompt_img/prompt_020.webp",
     "category": "Aesthetic",
     "tags": [
       "aesthetic",
