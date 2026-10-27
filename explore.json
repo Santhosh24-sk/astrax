@@ -6,9 +6,7 @@
     "imageUrl": "https://santhosh24-sk.github.io/astrax/singlecode_img/microworld.webp",
     "category": "Aesthetic",
     "tags": [
-      "aesthetic",
-      "cinematic",
-      "singlecode"
+      "Micro World"
     ]
   },
   {
@@ -18,11 +16,8 @@
     "imageUrl": "https://santhosh24-sk.github.io/astrax/singlecode_img/lowangle.webp",
     "category": "Aesthetic",
     "tags": [
-      "aesthetic",
-      "cinematic",
-      "singlecode"
+      "Low Angle"
     ]
-
   },
   {
     "id": "highangle",
@@ -31,11 +26,8 @@
     "imageUrl": "https://santhosh24-sk.github.io/astrax/singlecode_img/highangle.webp",
     "category": "Aesthetic",
     "tags": [
-      "aesthetic",
-      "cinematic",
-      "singlecode"
+      "High Angle"
     ]
-
   },
   {
     "id": "sideview",
@@ -44,11 +36,8 @@
     "imageUrl": "https://santhosh24-sk.github.io/astrax/singlecode_img/sideview.webp",
     "category": "Aesthetic",
     "tags": [
-      "aesthetic",
-      "cinematic",
-      "singlecode"
+      "Side View"
     ]
-
   },
   {
     "id": "dreamglow",
@@ -57,11 +46,8 @@
     "imageUrl": "https://santhosh24-sk.github.io/astrax/singlecode_img/dreamglow.webp",
     "category": "Aesthetic",
     "tags": [
-      "aesthetic",
-      "cinematic",
-      "singlecode"
+      "Dream Glow"
     ]
-
   },
   {
     "id": "realmountainescape",
@@ -70,11 +56,8 @@
     "imageUrl": "https://santhosh24-sk.github.io/astrax/singlecode_img/realmountainescape.webp",
     "category": "Aesthetic",
     "tags": [
-      "aesthetic",
-      "cinematic",
-      "singlecode"
+      "Real Mountain Escape"
     ]
-
   },
   {
     "id": "droneview",
@@ -83,11 +66,8 @@
     "imageUrl": "https://santhosh24-sk.github.io/astrax/singlecode_img/droneview.webp",
     "category": "Aesthetic",
     "tags": [
-      "aesthetic",
-      "cinematic",
-      "singlecode"
+      "Drone View"
     ]
-
   },
   {
     "id": "lowwideangle",
@@ -96,11 +76,8 @@
     "imageUrl": "https://santhosh24-sk.github.io/astrax/singlecode_img/lowwideangle.webp",
     "category": "Aesthetic",
     "tags": [
-      "aesthetic",
-      "cinematic",
-      "singlecode"
+      "Low Wideangle"
     ]
-
   },
   {
     "id": "bokeh",
@@ -109,11 +86,8 @@
     "imageUrl": "https://santhosh24-sk.github.io/astrax/singlecode_img/bokeh.webp",
     "category": "Aesthetic",
     "tags": [
-      "aesthetic",
-      "cinematic",
-      "singlecode"
+      "Bokeh"
     ]
-
   },
   {
     "id": "4k",
@@ -122,9 +96,7 @@
     "imageUrl": "https://santhosh24-sk.github.io/astrax/singlecode_img/4k.webp",
     "category": "Aesthetic",
     "tags": [
-      "aesthetic",
-      "cinematic",
-      "singlecode"
+      "4K"
     ]
-    }
+  }
 ]
