@@ -1,10 +1,10 @@
 [
   {
-    "id": "lowangle_001",
-    "title": "Low Angle",
-    "prompt": "Your complete AI image prompt here...",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeATew2vpO6KPuxZDk5yBUdHP2BUALMan9Tkd_kPKvKg&s=10",
-    "category": "Camera",
+    "id": "dreamglow",
+    "title": "Dream Glow",
+    "prompt": "/dreamglow",
+    "imageUrl": "https://santhosh24-sk.github.io/astrax/singlecode_img/dreamglow.webp",
+    "category": "Aesthetic",
     "tags": ["lowangle", "cinematic"]
   },
   {
